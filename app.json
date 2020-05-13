@@ -1,0 +1,17 @@
+{
+  "name": "flockApp",
+  "displayName": "flockApp",
+  "expo": {
+    "name": "flockApp",
+    "slug": "flockApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
